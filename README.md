@@ -1,2 +1,2 @@
 # potala
-Container workflow for randon repo.
+Container workflow for random repo.
